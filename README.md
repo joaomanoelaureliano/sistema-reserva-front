@@ -35,7 +35,7 @@ Na instalação do banco, usar o usuário e senha postgresql, porta 5432.
 Após instalar, criar um banco de dados pela ferramenta pgAdmin com o nome "reservafacil".
 
 
-![home](https://user-images.githubusercontent.com/37249144/46517340-3b6b8180-c845-11e8-8f2d-689f93c2271e.png)
+![home](https://user-images.githubusercontent.com/37249144/46517696-d9ac1700-c846-11e8-9171-8883a9894a77.png)
 ![cadastro hospede](https://user-images.githubusercontent.com/37249144/46517355-445c5300-c845-11e8-8b03-9d54f3d197df.png)
 ![lista de hotel](https://user-images.githubusercontent.com/37249144/46517356-445c5300-c845-11e8-9a63-a71e5c7934c0.png)
 ![cadastro hospede](https://user-images.githubusercontent.com/37249144/46517368-49b99d80-c845-11e8-93c0-62fe2cd5c614.png)
