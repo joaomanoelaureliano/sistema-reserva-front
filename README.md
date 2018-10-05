@@ -35,14 +35,6 @@ Na instalação do banco, usar o usuário e senha postgresql, porta 5432.
 Após instalar, criar um banco de dados pela ferramenta pgAdmin com o nome "reservafacil".
 
 
-
-- Contato:
-
-- www.thinksystem.com.br
-- joao@thinksystem.com.br
-- jmanoel.web@gmail.com
-
-
 ![home](https://user-images.githubusercontent.com/37249144/46517340-3b6b8180-c845-11e8-8f2d-689f93c2271e.png)
 ![cadastro hospede](https://user-images.githubusercontent.com/37249144/46517355-445c5300-c845-11e8-8b03-9d54f3d197df.png)
 ![lista de hotel](https://user-images.githubusercontent.com/37249144/46517356-445c5300-c845-11e8-9a63-a71e5c7934c0.png)
@@ -51,6 +43,13 @@ Após instalar, criar um banco de dados pela ferramenta pgAdmin com o nome "rese
 ![save reserva](https://user-images.githubusercontent.com/37249144/46517374-4de5bb00-c845-11e8-80f8-935dbc190307.png)
 ![cadastro reserva](https://user-images.githubusercontent.com/37249144/46517375-4e7e5180-c845-11e8-98e8-d21bb7520724.png)
 ![lista reservas](https://user-images.githubusercontent.com/37249144/46517376-4f16e800-c845-11e8-9d79-7f73f6b25096.png)
+
+
+- Contato:
+
+- www.thinksystem.com.br
+- joao@thinksystem.com.br
+- jmanoel.web@gmail.com
 
 
 
