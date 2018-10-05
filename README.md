@@ -9,13 +9,21 @@
 Java JDK 8, NodeJS e PostgreSQL.
 
 
+
 - Estrutura:
 
 Todo o projeto pode ser baixado por meio desse repositório, porém, a aplicação foi desenvolvida em módulos separados,
 portanto, deve ser executado o comando "mvn spring-boot:run" para subir a aplicação back-end.
 
-Front-end deve ser executado o comando "npm install" ou "npm i" para instalação do nodeModules após a instalação deve executar
-o comando "npm start".
+-OU
+
+Fazer o clone do Front-end e executar comando "npm install" ou "npm i" para instalação do nodeModules após a instalação deve executar
+o comando "npm start". 
+
+Aguardar 60 segundos para a API Heroku fazer o build e o projeto front consumir a API.
+
+Link para consumir a API:
+https://reserva-facil-betha-sistemas.herokuapp.com
 
 
 - Banco:
