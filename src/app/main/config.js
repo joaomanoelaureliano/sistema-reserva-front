@@ -6,11 +6,11 @@ export const mainConfig = (modulo) => {
   ($stateProvider, $urlRouterProvider) => {
     $urlRouterProvider.otherwise('/')
     $stateProvider
-      .state('home', {
-        template: require('@views/main/component.html'),
+      .state('menu', {
+        template: require('@views/main/component.html'),  
         controller: MainController,
         controllerAs: 'vm',
-        url: 'home'
+        url: '/'
       })
   }]
 }

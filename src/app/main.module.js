@@ -1,6 +1,7 @@
 import * as angular from 'angular'
 
 import { default as uiRouter } from '@uirouter/angularjs'
+import diretivas from './diretivas';
 import { default as uiNotification } from 'angular-ui-notification'
 import { default as inputMasks } from 'angular-input-masks'
 import { default as flatpickr } from 'ng-flatpickr'
@@ -13,7 +14,7 @@ require('angular-i18n/angular-locale_pt-br.js')
 
 export const appModule = 'app'
 
-var modulo = angular.module(appModule, [uiRouter, uiNotification, inputMasks, flatpickr.name])
+var modulo = angular.module(appModule, [uiRouter, uiNotification, inputMasks, flatpickr.name, diretivas])
 
 modulo.config(mainConfig(modulo))
       .config(hospedeConfig(modulo))

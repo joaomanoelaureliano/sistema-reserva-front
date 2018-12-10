@@ -11,6 +11,14 @@ html, body.ng-scope {
 #menuA{
     font-size: 18px;
 }
+.footer{
+    margin-top: 11rem !important;
+    text-align: center;
+    color: #4c3ad0;
+}
+#menuB{
+    color: #92e836;
+}
 
 /*
    * Sidebar
@@ -27,8 +35,8 @@ nav.sidebar {
     /* Height of  */
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
 }
-#bgg-dark {
-    background-color: #007bff   !important;
+.bgg-dark {
+    background-color: #2d3135   !important;
 }
 #pull {float: right;}
 
@@ -39,8 +47,11 @@ div.sidebar-sticky {
     padding-top: .5rem;
     overflow-x: hidden;
     overflow-y: auto;
-    background: #248eff ;
+    background: #2d3135 ;
     /* Scrollable contents if viewport is shorter than content. */
+}
+.pxx-4 {
+    padding-left: 0.5rem !important;
 }
 
 @supports ((position: -webkit-sticky) or (position: sticky)) {
@@ -73,19 +84,6 @@ nav.sidebar .nav-link.active .feather {
     font-size: .75rem;
     text-transform: uppercase;
 }
-
-/*
-   * Content
-   */
-
-[role="main"] {
-    padding-top: 48px;
-    /* Space for fixed navbar */
-}
-
-/*
-   * Navbar
-   */
 
 a.navbar-brand {
     padding-top: 0.75rem;
